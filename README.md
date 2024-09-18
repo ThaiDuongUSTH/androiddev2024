@@ -10,7 +10,8 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Pham Thai Duong
+* ID: BA12-057
+* Group ID: 10
+
+* Project Name: Email Client
