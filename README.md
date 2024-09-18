@@ -11,7 +11,6 @@ Student Info
 =======================
 
 * Name: Pham Thai Duong
-* ID: BA12-057
+* ID: BA12-057  
 * Group ID: 10
-
 * Project Name: Email Client
